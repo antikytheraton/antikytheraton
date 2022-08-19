@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```go
-var me = joelazar{
+var me = antikytheraton{
     pronouns:   []string{"He", "Him"},
     code:       []string{"Go", "Python", "JS", "Bash", "Lua"},
     askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
