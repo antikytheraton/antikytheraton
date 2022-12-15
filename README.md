@@ -2,19 +2,18 @@
 
 ```go
 var me = antikytheraton{
-    pronouns:   []string{"He", "Him"},
     code:       []string{"Go", "Python", "JS", "Bash", "Lua"},
     askMeAbout: []string{"tech", "web dev", "devops", "linux", "networking"},
     technologies: technologies{
         backEnd: map[string]interface{}{
-            "go":     []string{"sqlx", "chi", "stdlib"},
+            "go":     []string{"go (LOL)"},
             "python": []string{"django", "flask"},
             "js":     []string{"node"},
         },
-        devOps:    []string{"docker", "nginx", "GitlabCI", "CircleCI", "Github Actions"},
-        databases: []string{"psql", "redis", "mongodb", "sqlite"},
-        linux:     []string{"arch", "debian", "rhel"},
-        misc:      []string{"git", "Neovim"},
+        devOps:    []string{"docker", "nginx", "CI/CD"},
+        databases: []string{"postgreSQL", "redis", "mongodb", "sqlite", "mySQL"},
+        linux:     []string{"hell yeah!"},
+        misc:      []string{"neovim"},
     },
     currentFocus:        "Go microservices",
 }
